@@ -1,0 +1,98 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+
+
+
+
+
+
+.div1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.div2{
+    display: flex;
+}
+
+.logo{
+    width:150px ;
+    height:150px ;
+    
+}
+
+
+.div2 li{
+display: flex;
+list-style: none;
+padding: 12px;
+color: rgb(133, 57, 7);
+font-weight: bold;
+
+}
+
+
+.div3 button{
+    border-radius: 25px;
+margin: 5px;
+margin-top: 22px;
+font-weight: bold;
+background-color: brown;
+color: aliceblue;
+}
+
+.banner{
+    width: 100px;
+}
+
+.product{
+    display: flex;
+flex-wrap: wrap;
+margin-left: 40px;
+}
+
+
+.head1{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+}
+.product img{
+    border-radius: 40px;
+    width: 210px;
+    height: 210px;
+    padding: 20px;
+
+
+
+}
+.product h2{
+font-weight: bold;
+margin-left: 20px;
+
+}
+.product p{
+    font-weight: bold;
+margin-left: 20px;
+
+}
+.product button{
+    border-radius: 25px;
+    background-color: brown;
+    color: aliceblue;
+margin-left: 20px;
+
+}
+
+.footer{
+    width: 50px;
+    height: 50px;
+    display: flex;
+}
